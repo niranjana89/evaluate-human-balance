@@ -1,0 +1,45 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++--------------------+---------+
+|               email|birthYear|
++--------------------+---------+
+|   Chris.Wu@test.com|     1965|
+|Larry.Jones@test.com|     1964|
+|Eric.Anandh@test.com|     1962|
+|Eric.Aristotle@te...|     1961|
+|Frank.Mitra@test.com|     1960|
+|Sarah.Howard@test...|     1959|
+|David.Clayton@tes...|     1958|
+|David.Doshi@test.com|     1957|
+|Gail.Harris@test.com|     1956|
+|  Lyn.Clark@test.com|     1955|
+|Frank.Ahmed@test.com|     1954|
+|Bobby.Jefferson@t...|     1953|
+|Lyn.Anderson@test...|     1952|
+|Chris.Clayton@tes...|     1951|
+|Senthil.Clark@tes...|     1950|
+|Eric.Clayton@test...|     1949|
+|David.Lincoln@tes...|     1948|
+|Angie.Sanchez@tes...|     1947|
+|Jane.Jefferson@te...|     1946|
+|John.Khatib@test.com|     1945|
++--------------------+---------+
+only showing top 20 rows
+
+-------------------------------------------
+Batch: 1
+-------------------------------------------
++-----+---------+
+|email|birthYear|
++-----+---------+
++-----+---------+
+
+-------------------------------------------
+Batch: 2
+-------------------------------------------
++-----+---------+
+|email|birthYear|
++-----+---------+
++-----+---------+
+
